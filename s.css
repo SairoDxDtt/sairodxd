@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+header{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 800px;
+    column-gap: 100px;
+   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwCIW7mBvAa6MkTmsz9gONxtVYNWi5S_6QNg&usqp=CAU") center/cover no-repeat;
+}
+h1 {
+    font-family: 'Neonderthaw', cursive;
+}
+button{
+    margin-top: 100px;
+    background: red;
+    width: 200px;
+    height: 50px;
+}
